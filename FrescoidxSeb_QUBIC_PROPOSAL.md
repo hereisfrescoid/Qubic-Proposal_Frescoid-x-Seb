@@ -1,9 +1,8 @@
-# Qubic Influencers on X Proposal
+# QUBIC PROPOSAL - FRESCOID x SEB CCF
 
 ---
 
-Submitted by: Frescoid & Crypto With Seb - leading QUBIC community
-influencers on X
+Submitted by: Frescoid & Crypto With Seb - leading QUBIC community supporters on X
 
 Campaign Duration: 3 Months (October 1, 2025 - January 1, 2026)
 
