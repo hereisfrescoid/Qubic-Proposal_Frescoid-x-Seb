@@ -14,7 +14,10 @@ equally between the two recipients:
 - Crypto With Seb: 2B QUBIC
 
 # Wallets for Funding
+Funds will first be sent to this address:
+XVSMHKGPVAXWKAHGRSGVOMBQURBBWVLEZSTBIOTGCCPPTSYHDHDINZPCPHEB
 
+After that, Seb and Frescoid will split the funds into the following wallets:
 - Frescoid:
 KBJMAANEVAWGBFDZDIXRCDSHELXCJKMDDWVZBGNKZFBJZGDRKGNQOXGFVXID
 - Crypto With Seb:
