@@ -36,6 +36,10 @@ This proposal introduces a **focused 2-month social media campaign** aimed at am
 
 ---
 
+##  **About us**
+
+We have been actively supporting Qubic on X for over a year, creating content that is both informative and engaging. As dedicated QUBIC content creators, we have grown a combined audience of 7,000 followers and invested thousands of hours studying Qubic’s technical foundations. Our mission is to serve as a reliable resource for clear, accurate, and accessible Qubic education and insights.
+
 ##  **Objectives**
 
 * Keep **QUBIC visible and trending** daily on X
