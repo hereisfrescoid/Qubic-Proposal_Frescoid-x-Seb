@@ -1,168 +1,113 @@
-# QUBIC PROPOSAL - FRESCOID x SEB CCF
+
 
 ---
 
-Submitted by: Frescoid & Crypto With Seb - leading QUBIC community supporters on X
+#  **QUBIC PROPOSAL – Frescoid × Seb CCF**
 
-Campaign Duration: 3 Months (October 1, 2025 - January 1, 2026)
+### **Submitted by:** **Frescoid** & **Crypto With Seb** - leading QUBIC community supporters on X
 
-# Funding Requested
+---
 
-The total funding requested for this campaign is 4B QUBIC, distributed
-equally between the two recipients:
-- Frescoid: 2B QUBIC
-- Crypto With Seb: 2B QUBIC
+##  **Campaign Duration**
 
-# Wallets for Funding
-Funds will first be sent to this address:
-XVSMHKGPVAXWKAHGRSGVOMBQURBBWVLEZSTBIOTGCCPPTSYHDHDINZPCPHEB
+**2 Months:** November 1, 2025 – December 31, 2025
 
-After that, Seb and Frescoid will split the funds into the following wallets:
-- Frescoid:
-KBJMAANEVAWGBFDZDIXRCDSHELXCJKMDDWVZBGNKZFBJZGDRKGNQOXGFVXID
-- Crypto With Seb:
-BHDFNIGPABAIWCFUESLRPXPSGFKASAFQBFHPOUQUBEQXASHQPLSIRFTBEIZA
+---
 
-# Executive Summary
+##  **Funding Requested**
 
-Frescoid and Crypto With Seb are two of the most active and influential
-members of the QUBIC community. Together, they generate more than 2-3M
-monthly impressions, produce 600+ posts per month, receive 100K+ likes,
-and generate 10K+ reposts per month.
+**Total:** 2B QUBIC (1B each)
 
-After a temporary break, they have returned to the QUBIC community,
-ready to dedicate full effort to supporting QUBIC. This proposal
-requests 4B QUBIC for a 3-month full-time campaign, enabling them to
-continue producing high-impact content, engaging the community, and
-expanding QUBIC's reach.
+We’re keeping it simple, a short-term, results-driven campaign designed to maximize measurable visibility and support Qubic’s marketing efforts through clear, trackable deliverables.
 
-# Rationale
+---
 
-• Proven Influence: Frescoid and Seb consistently rank in the top 2
-QUBIC influencers on X.
+##  **Wallet for Funding:**
 
-• High Output: Each publishes 10+ posts per day, totaling 600+ posts
-monthly, with over 1M impressions per person.
+`XVSMHKGPVAXWKAHGRSGVOMBQURBBWVLEZSTBIOTGCCPPTSYHDHDINZPCPHEB`
 
-• Community Engagement: 100K+ combined likes, 10K+ reposts, and 10K+
-profile visits monthly.
 
-• Consistency & Dedication: Thousands of uncompensated hours already
-invested in QUBIC content. This funding allows full focus.
+##  **Executive Summary**
 
-• Strategic Timing: With upcoming milestones and ecosystem growth,
-visibility and educational content are critical.
+Frescoid and Seb are two of the most active and consistent QUBIC supporters on X.
+Together, we generate **1.5M–2M monthly impressions**, publish **10+ posts per day**, and continuously engage thousands of community members across the crypto space.
 
-• Social Impact: Foster vibrant community discussions, onboard
-newcomers, and drive adoption.
+This proposal introduces a **focused 2-month social media campaign** aimed at amplifying Qubic’s visibility, simplifying education for newcomers, and supporting Qubic’s official marketing communications.
 
-• Ecosystem Growth: Align content with QUBIC milestones to attract new
-users and strengthen holder retention.
+---
 
-• Positive Approach: Promote optimism and community-focused narratives.
+##  **Objectives**
 
-• Community Giveaways: Over 350M QUBIC already distributed through
-giveaways to boost excitement and participation.
+* Keep **QUBIC visible and trending** daily on X
+* Publish **clear, educational content** (emissions, halving, computors, AIGarth, Anna, tokenomics, etc.)
+* Collaborate with Qubic’s **marketing team** on official updates and events
+* Maintain **transparency through X Premium analytics**
+* Engage the community through polls, discussions, and educational threads
 
-# Deliverables & Commitments
+---
 
-The campaign will deliver the following outputs and commitments:
+##  **Deliverables (November–December 2025)**
 
-- Daily X Posts: At least 10 per day per person, ensuring timely
-updates, educational threads, and strong community engagement.
-- QUBIC Analysis Posts: 2--3 per week per person, covering market
-insights, burn statistics, and ecosystem developments.
-- Community AMAs & Interactive Threads: 1--2 per week, fostering direct
-engagement with holders and onboarding newcomers.
-- Profile & Engagement Monitoring: Continuous monitoring of KPIs to
-optimize reach, refine strategy, and maximize impact.
+| Category                    | Deliverable                          | Frequency        | Purpose                                                         |
+| --------------------------- | ------------------------------------ | ---------------- | --------------------------------------------------------------- |
+| **Daily X Coverage**        | 10+ coordinated posts per day (5 each) | 600+ posts total | Align with marketing announcements, news, and ecosystem updates |
+| **Educational Threads**     | 7 per week                           | 112 total         | Explain QUBIC’s technical and economic foundations              |
+| **Analytics Reports**       | Bi-weekly (4 total)                  | 1 every 2 weeks  | Track impressions, reach, and performance via X Premium         |
+| **Marketing Collaboration** | Co-publish official updates          | Ongoing          | Support QUBIC brand consistency                                 |
 
-# Educational Content Roadmap
+---
 
-To maximize community growth and education, the roadmap is structured
-into three months of themed content:
+##  **Time Commitment**
 
-## Month 1 - Foundations of QUBIC
+Both **Frescoid** and **Seb** will dedicate **50% of their work time** over this 2-month period to QUBIC content creation, marketing alignment, and community engagement.
 
-- Introduce QUBIC's core technology, such as feeless transactions and
-quorum-based computation.
-- Highlight ecosystem projects and practical use cases.
-- Explain quorum-based consensus in comparison with PoW and PoS models.
-- Share visuals demonstrating QUBIC's energy efficiency.
-- Define computors (676 nodes), their role in decentralization, and the
-significance of the quorum threshold.
-- Publish explainers on QUBIC's halving mechanism and token issuance
-model.
+---
 
-## Month 2 - Focusing on AGI
+##  **Expected Impact & KPIs**
 
-- Introduce AIGarth, QUBIC's decentralized AI project, and Anna, its
-learning model.
-- Publish explainers on decentralized ANN training.
-- Emphasize the significance of Artificial General Intelligence (AGI)
-and how QUBIC democratizes AI development.
-- Compare Anna with traditional LLMs to highlight its decentralized
-learning approach.
-- Showcase AI-driven use cases enabled by QUBIC.
-- Explain Qubic Oracles and their role in integrating real-world data
-with smart contracts.
+* **6.5M+ total impressions** across 2 months
+* **600+ educational and community posts**
+* **350K+ engagements (likes, reposts, comments)**
+* **Higher newcomer retention** via clear educational content
+* **Transparent data reports** using X Premium insights
 
-## Month 3 - Economics & Utility
+---
 
-- Explain QUBIC's unique mining approach and contrast it with Monero.
-- Publish educational posts on smart contract functionality.
-- Share threads on QUBIC's tokenomics, fixed supply, halving, and
-scarcity mechanisms.
-- Highlight why QUBIC is scarcer than other cryptos due to halving and
-burns.
-- Explain QUBIC's feeless nature and compare it with Ethereum's
-fee-heavy model.
-- Cover protocol upgrades and upcoming network optimizations.
-- Share explainers on QUBIC's cryptographic safeguards.
+##  **Top Performing Content on one post about Qubic**
 
-## Ongoing Topics
+| Creator      | Views    |
+| ------------ | -------- |
+| **Frescoid** | **90K+** |
+| **Seb**      | **70K+** |
 
-- Simplify and explain QUBIC's whitepaper.
-- Cover news and ecosystem developments.
-- Spotlight community-driven projects.
-- Share milestone breakdowns and comparisons with other chains.
-- Publish tech myth-busting threads.
+---
 
-# Additional Commitments
+##  **Budget Breakdown**
 
-- Provide monthly performance reports including impressions, likes,
-reposts, and visits.
-- Highlight ecosystem milestones and major QUBIC updates.
-- Actively promote other QUBIC initiatives and proposals.
+| Month         | Frescoid   | Seb        | Combined     |
+| ------------- | ---------- | ---------- | ------------ |
+| November 2025 | 500M QUBIC | 500M QUBIC | **1B QUBIC** |
+| December 2025 | 500M QUBIC | 500M QUBIC | **1B QUBIC** |
 
-# Budget & Justification
+**Total:** 2B QUBIC (1B per person over 2 months)
 
-The requested budget is 4B QUBIC, allocated equally across three months:
+---
 
-- October 2025: Frescoid 666.7M QUBIC | Crypto With Seb 666.7M QUBIC
-| Combined 1.33B QUBIC
-- November 2025: Frescoid 666.7M QUBIC | Crypto With Seb 666.7M QUBIC
-| Combined 1.33B QUBIC
-- December 2025: Frescoid 666.7M QUBIC | Crypto With Seb 666.7M QUBIC
-| Combined 1.33B QUBIC
+##  **Why This Proposal Matters**
 
-Total Allocation: Frescoid 2B QUBIC | Crypto With Seb 2B QUBIC |
-Combined 4B QUBIC
+* Amplifies Qubic’s visibility in the broader crypto space
+* Provides educational clarity to new users
+* Keeps X coverage authentic, daily, and community-driven
+* Strengthens collaboration with the QUBIC marketing team
+* Delivers measurable, data-backed impact
 
-# Impact & Value
+---
 
-• Amplifies QUBIC awareness to millions of crypto users.
-• Strengthens community sentiment through consistent, high-quality
-content.
-• Maximizes visibility during key ecosystem milestones.
-• Provides a cost-efficient way to leverage leading community
-influencers for long-term growth.
+##  **Conclusion**
 
-# Conclusion
+This proposal is about **focus, transparency, and measurable results**.
+We’re starting small, two months, 2B QUBIC total - but with full dedication to growing Qubic’s awareness, education, and credibility across crypto audiences.
 
-Frescoid and Crypto With Seb are uniquely positioned to deliver
-exceptional value to QUBIC through full-time, high-volume content
-production. Funding this proposal ensures visibility, engagement, and
-ecosystem growth at a critical moment. We respectfully request a YES
-vote from computors to approve this 4B QUBIC allocation and enable our
-3-month content campaign.
+We respectfully request the computors’ **YES vote** to approve this campaign and help us continue amplifying Qubic together.
+
+---
