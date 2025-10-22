@@ -24,7 +24,7 @@ We’re keeping it simple, a short-term, results-driven campaign designed to max
 
 ##  **Wallet for Funding:**
 
-`XVSMHKGPVAXWKAHGRSGVOMBQURBBWVLEZSTBIOTGCCPPTSYHDHDINZPCPHEB`
+`OVPKXLACQKXGHDMRXYLXCNQFGKGCTFNBXNVYECVVHEJBZDXMVCWJGUREZBCF`
 
 
 ##  **Executive Summary**
